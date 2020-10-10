@@ -166,5 +166,5 @@ The only solution is to go in "My report" which is a page that is hidden in a co
 ![screenshot_app2-21](./app2_10.png)
 
 3) The feature of the "chat" with a teacher could have been more exploited.
-![screenshot_app2-22](./app2_4.1)
+![screenshot_app2-22](./app2_4.1.png)
 **Severity Rating:** 2
