@@ -147,8 +147,7 @@
 ------------ | ------------- 
 **Status of Criteria** | **RESPECTED**
 **Example 1** | Ask questions before deleting/resetting the desk cards.
-**Screencaps** | ![screenshot_app2-8](./app2_5.png)
-![screenshot_app2-9](./app2_5.2.png)
+**Screencaps** | ![screenshot_app2-8](./app2_5.png)![screenshot_app2-9](./app2_5.2.png)
 **Severity Rating** | **1**
 
 #### (6) Recognition rather than Recall
