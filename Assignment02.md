@@ -31,6 +31,11 @@ The link to the pilot UT video is <a href="https://drive.google.com/file/d/1XlmU
 * Finally, my participant did not really expressed any concern regarding the long-scrolling layout of the website, or about the fact that it is difficult to re-take a quiz once done. This was interesting to see how they thought differently on those aspects.
 
 ### Takeaways
+For the UT, here are the different takeways I get from this pilot UT.
+* Putting the windows one next to each other might cause some problem and influence the result of the test. My participant had a different layout of the website while using it next to the questions, while my layout while doing the heuristic evaluation was on the full window.
+* Because I explained to my user that it was for my user design class, they were very aware of this point during doing the test - which could be a good or a bad thing since it could also influence the way they react while executing the tasks.
+* I had a typo on my material that was a little misleading, so before processing to the test it is crucial to review all the questions one by one.
+
 For my own app design, here are the different takeaways I get from this pilot UT.
 * There is a need to show in a functional, yet esthetic way the different features of the website. The participant did not see the learning center at all during their experiment. Maybe showing a widget in the home page could be a way to proceed.
 * The Help "platform" should be consistantly available - even inside a lesson.
