@@ -33,15 +33,15 @@ The observation/interview guide is available <a href="https://docs.google.com/do
 
 ## * Step 05: Conducting the Research
 
-The recording of the interview is available <a href="https://drive.google.com/file/d/1oZs_-DCgKzC_jPdbi7ZsM0a-K-SzPQnE/view?usp=sharing">here</a>.
-The transcription of the interview is available <a href="">here.</a>
-The Notes that I took during the interview are available <a href="https://drive.google.com/file/d/192udefZTZ3a3bXC7m-BDR-cc_HQagnBb/view?usp=sharing">here.</a>
+* The recording of the interview is available <a href="https://drive.google.com/file/d/1oZs_-DCgKzC_jPdbi7ZsM0a-K-SzPQnE/view?usp=sharing">here</a>.
+* The transcription of the interview is available <a href="">here.</a>
+* The Notes that I took during the interview are available <a href="https://drive.google.com/file/d/192udefZTZ3a3bXC7m-BDR-cc_HQagnBb/view?usp=sharing">here.</a>
 
 ## * Step 06: Reflection
 > Once again, I was very thankful to my participant because their insight throughout the interview/task observation was very very detailed and useful in shaping my broader project. Here are the several takes that I took from their answers and their behavior during the tasks.
 ### Using YouTube as an external ressource
 > I found out that my participant was using YouTube and Tiktok as a ressource for their self-learning experience. The good aspect with YouTube is that it provides a lot of content from Korean media companies, and if embedded in a website/application it doesn't bring any problem of copyright - it even makes their views grow. The participant emphasized that YouTube had a lot of content for beginners, but not a lot for higher levels, starting intermediate.
-### "Outside the classroom."
+### Importance of what happens "outside the classroom."
 > In their interview, the participant said that they feel accomplished when they could retrive something they learned in the classroom in another context. During the first task that had also as a goal to familiarize the learner with the different level of speechs in Korean, the participant stressed that in the classroom, because it was too formal of a setting, they never heard about 반말 or 존댓말. This cultural aspect is inherently related to language and helps fulfilling my intention of teaching both at the same time.
 ### The relevance of K-pop songs in Korean Learning
 > The participant enjoyed the first task way more than the second, and was way more responsive to the first one. Their idea that K-pop songs could be quite difficult to use for teaching was especially refreshing when they mentioned the different of pitch that made the prononciation different, and thus the exercise of "Fill in the blank" more difficult. However, they emphasized that with more context and a little bit more of indications, it could be helpful to figure out the grammar by themselves rather than being taught the grammar like a textbook.
