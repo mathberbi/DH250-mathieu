@@ -18,14 +18,14 @@ Deok_UP is an app to teach Korean through Korean Popular Culture Content. Deok_U
   - Watch the first clip to practice listening
 
 ## Wireframes, Wireflow
-<a href="https://drive.google.com/drive/u/1/folders/1GhisRfK0AQtUY8Zx438IW8kGrex41XHZ">Here</a> is a PDF of all the different screens (wireframes) that I used to put together the wireframes
-You can find the first version of the wireflow of the different screens, with a legend that corresponds to the different scenarios: <a href="https://projects.invisionapp.com/freehand/document/tff7RL3tw">here.</a>
+<a href="https://drive.google.com/file/d/1sov0bH33vreH7Ux48aU1gqcvQjcgP7w0/view?usp=sharing" target="blank">Here</a> is a PDF of all the different screens (wireframes) that I used to put together the wireframes
+You can find the first version of the wireflow of the different screens, with a legend that corresponds to the different scenarios: <a href="https://projects.invisionapp.com/freehand/document/tff7RL3tw" target="blank">here.</a>
 
 ## Tests
 I conducted two different tests of the wireflow - one for the first scenario, and one for the second.
 For each tasks listed in the different tasts, I asked my tester to use a different color - and asked them to write down their comments as they were working on it.
-<a href="https://projects.invisionapp.com/freehand/document/PgjT4TgD4">Test #1</a>
-<a href="https://projects.invisionapp.com/freehand/document/58bBeoP8G">Test #2</a>
+<a href="https://projects.invisionapp.com/freehand/document/PgjT4TgD4" target="blank">Test #1</a>
+<a href="https://projects.invisionapp.com/freehand/document/58bBeoP8G" target="blank">Test #2</a>
 
 ## Reflection and Changes
 Thanks to my tester, I figured out a lot of details that I forgot when I made the wireframes and linked them all-together. Here is a list of details that the tester pointed, and how I changed them (cf. to the second and updated version of the wireflow below).
@@ -37,4 +37,4 @@ Thanks to my tester, I figured out a lot of details that I forgot when I made th
   - The "new account" and "log-in" screen succession wasn't very clear, so I changed it.
   - The tester suggested that there was a warning message before the clip plays to tell the user to put their screen on the side, so I added it.
 
-You can find the revised wireflow <a href="https://projects.invisionapp.com/freehand/document/npcBrjcX5">here.</a>
+You can find the revised wireflow <a href="https://projects.invisionapp.com/freehand/document/npcBrjcX5" target="blank">here.</a>
