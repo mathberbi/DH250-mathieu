@@ -34,5 +34,5 @@ I also showed the prototype to some of my friends and I got a few remarks that w
 I used the accessiblity plug-in Cluse to do the color-contrast check. It was definitely useful - at first, I wanted to use the exact same colors as the ones in the logo but I couldn't because they wouldn't pass the color-contrast check. I changed them a little bit and I don't think this is a big deal visually.
 Proof of color-contrast check: <a href="https://drive.google.com/file/d/1tXzjuQVIuz3GORlBX5VhD4LhfForhUuK/view?usp=sharing" target="_blank">1</a> / <a href="https://drive.google.com/file/d/1wWtFKeuwr-EnSseffIHII3Zp8oPcu490/view?usp=sharing" target="_blank">2</a> 
 
-##Interactive Prototype
+## Interactive Prototype
 <a href="https://www.sketch.com/s/c16a4788-9f6d-4825-bc30-e6dfe46c02d9/a/5abLrx/play" target="_blank">Here</a> is a first version of the prototype who reflects both scenarios (try to follow the tasts from each scenario and you should be able to access them :))
