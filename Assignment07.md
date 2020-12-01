@@ -21,18 +21,27 @@ Deok_UP is an app to teach Korean through Korean Popular Culture Content. Deok_U
   - Read Level 1 table of content
   - Watch the first clip to practice listening
 
-## Wireframes / Graphic Design / First Prototype
-<a href="https://drive.google.com/file/d/12CleKV-0wORXBCd4xLkhv4Z8Q_D7quks/view?usp=sharing" target="_blank">Here</a> is a PDF of all the different screens (wireframes) that I used to put together the wireframes
+## Graphic Design and Impression Test 
+<a href="https://drive.google.com/file/d/1e9DSCMh3A9Wsp0QhKimRFmDWfNgPzQyK/view?usp=sharing" target="_blank">Here</a> is a (updated) version PDF of all the different screens (wireframes) that I used to put together the wireframes.
 You can also find them on my Sketch cloud: <a href="https://www.sketch.com/s/c16a4788-9f6d-4825-bc30-e6dfe46c02d9" target="_blank">here.</a>
 
-## Impression Test
 I was a bit indecisive on the colors to use for the app - so I asked my friends. (see <a href="https://drive.google.com/file/d/14R1SeQ06FlQoPNclrxN_aKawqDvkkncr/view?usp=sharing" target="_blank">screencaps</a>)
 Finally, I decided to use the first one because it gave a "video game" feeling (according to my friend) and that was exactly what I wanted. Even though the gradation looked good, I didn't keep it for the other screens because I knew that it would be a problem for the contrast. (see next section)
 I also showed the prototype to some of my friends and I got a few remarks that were very useful and that I already changed in the first version that I posted in the section before. For example, I had some problems in establishing all the hotspots to comeback to the different screens - which could make the user stuck at some point.
+Thank to the cognitive walktrough that I did in class, I got to also add a darker background for the bottom of the screen and put emphasis on the "return buttons" a little bit more.
 
 ## Accessibility (color-contrast) check.
 I used the accessiblity plug-in Cluse to do the color-contrast check. It was definitely useful - at first, I wanted to use the exact same colors as the ones in the logo but I couldn't because they wouldn't pass the color-contrast check. I changed them a little bit and I don't think this is a big deal visually.
 Proof of color-contrast check: <a href="https://drive.google.com/file/d/1tXzjuQVIuz3GORlBX5VhD4LhfForhUuK/view?usp=sharing" target="_blank">1</a> / <a href="https://drive.google.com/file/d/1wWtFKeuwr-EnSseffIHII3Zp8oPcu490/view?usp=sharing" target="_blank">2</a> 
 
 ## Interactive Prototype
-<a href="https://www.sketch.com/s/c16a4788-9f6d-4825-bc30-e6dfe46c02d9/a/5abLrx/play" target="_blank">Here</a> is a first version of the prototype who reflects both scenarios (try to follow the tasts from each scenario and you should be able to access them :))
+<a href="https://www.sketch.com/s/c16a4788-9f6d-4825-bc30-e6dfe46c02d9/a/5abLrx/play" target="_blank">Here</a> is a version of the prototype who reflects both scenarios and the different tasks (try to follow each scenario and you should be able to access them :))
+
+## Wireflow (Diagram)
+### Scenario 1 (Set an Account - Self-Assessment Test - Hangul Refresher w/ BTS - Vowels Exercise)
+![Scenario1_Overall](https://i.ibb.co/sKfVSHn/Scenario1-Overall.png)
+![Scenario1_Part1](https://i.ibb.co/NKS1t5f/Scenario1-Part1.png)
+![Scenario1_Part2](https://i.ibb.co/kHtz0bk/Scenario1-Part2.png)
+
+### Scenario 2 (Set up an Account - Self-Assessment Test - Survival Korean - Business Korean - Watch a Clip)
+
