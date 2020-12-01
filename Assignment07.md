@@ -44,4 +44,13 @@ Proof of color-contrast check: <a href="https://drive.google.com/file/d/1tXzjuQV
 ![Scenario1_Part2](https://i.ibb.co/kHtz0bk/Scenario1-Part2.png)
 
 ### Scenario 2 (Set up an Account - Self-Assessment Test - Survival Korean - Business Korean - Watch a Clip)
+![Scenario2_Overall](https://i.ibb.co/TLjfKqY/Scenario2.png)
 
+## Cognitive Walktrough
+In addition to the cognitive walkthrough made in class (see answer to the google form), I also completed a cognitive walktrough with a friend who sat next to me and went through the different scenario. It felt that for the moment, there was not any specific problem when it comes to dead-end. However, when it comes to the first scenario and the vowel exercise, at firstthere was no sign of progress, nor message telling the user if they were doing great or not. 
+For that reason, I added a bubble on the picture of the BTS member that would help as a way to guide the user into the exercise. 
+It was especially helpful because I was so immersed in the project and the fact that I needed to make screens for every single possibility that I forgot to add "in-between" stages. Now that I am writing this, I realize that there is no "error message" that would indicate sometime if the user was to press on a 한글 letter that was not a vowel. This is something to take into consideration for further versions.
+
+## Reflection
+The whole process of making the high-fidelity prototype was really fun! I like how something that was very vague in my head now seems way more concret now that it is prototyped. What I realized through this process, and especially when I designed the practice question to find vowels in the name of the BTS member, is that you have to imagine every single step and every single possibilities that could arise. It needs a lot of guess-work.
+As I mentioned in my congitive walktrough findings, I need to meliorate a little bit the "feedback" given to the user to make sure they know how well they are doing, but also so that they keep engaged with the content. When it comes to design, I was very thankful to the test we had to do in class because I got a lot of nice feedback - I changed some little details (see the different versions of the prototype on the Sketch cloud).
