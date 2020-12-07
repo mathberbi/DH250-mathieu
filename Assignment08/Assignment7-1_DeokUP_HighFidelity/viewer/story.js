@@ -4,6 +4,7 @@ var story = {
  "docVersion": "V_V_V",
  "hasRetina": true,
  "serverToolsPath": "",
+ "fontSizeFormat": 0,
  "fileType": "png",
  "disableHotspots": false,
  "zoomEnabled": true,
@@ -455,8 +456,8 @@ var story = {
    "image2x": "_한글_vowel@2x.png",
    "width": 375,
    "height": 667,
-   "x": -665,
-   "y": 427,
+   "x": -531,
+   "y": 843,
    "title": " 한글 Vowel",
    "transAnimType": 0,
    "layout": {

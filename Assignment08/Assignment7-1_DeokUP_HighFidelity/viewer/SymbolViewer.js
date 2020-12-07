@@ -1,3 +1,21 @@
+const ELEMENTINSPECTOR_LINUX_FONT_SIZES = {
+    "8px": "6px",
+    "10px": "7px",
+    "11px": "8px",
+    "12px": "9px",
+    "13px": "10px",
+    "15px": "11px",
+    "16px": "12px",
+    "17px": "13px",
+    "19px": "14px",
+    "20px": "15px",
+    "21px": "16px",
+    "23px": "17px",
+    "24px": "18px",
+    "25px": "19px",
+    "26px": "20px"
+}
+
 class SymbolViewer extends AbstractViewer {
     constructor() {
         super()
@@ -650,7 +668,9 @@ class SymbolViewer extends AbstractViewer {
 
         result += "<hr>" +
             "<div class='block'>" +
-            "<div class='label'>Styles</div > " +
+            "<div class='label'>Styles" +
+            (1 == story.fontSizeFormat ? " (font size adjusted for Linux)" : "") +
+            "</div > " +
             "<div class='value code'>"
 
         css.split("\n").forEach(line => {
@@ -673,7 +693,7 @@ class SymbolViewer extends AbstractViewer {
                 }
             } else {
                 const tokenStr = tokens != null ? this._decorateStyleToken(styleName, tokens, siLayer, styleValue) : ""
-                result += tokenStr != "" ? tokenStr : (styleValue + ";")
+                result += tokenStr != "" ? tokenStr : (this._formatStyleValue(styleName, styleValue) + ";")
             }
             //
             result += "</span>"
@@ -700,9 +720,20 @@ class SymbolViewer extends AbstractViewer {
         const finalTokenInfo = this._findTokenValueByName(tokenName, libName, styleValue)
         //
         if (finalTokenInfo)
-            return finalTokenInfo[0] + ";</span><span class='tokenValue'>//" + finalTokenInfo[1]
+            return finalTokenInfo[0] + ";</span><span class='tokenValue'>//" + this._formatStyleValue(style, finalTokenInfo[1])
         else
             return ""
+    }
+
+    _formatStyleValue(style = "font-size", styleValue = "13px") {
+        if ("font-size" == style && 1 == story.fontSizeFormat) {
+            if (styleValue in ELEMENTINSPECTOR_LINUX_FONT_SIZES) {
+                styleValue = ELEMENTINSPECTOR_LINUX_FONT_SIZES[styleValue]
+            } else {
+                styleValue = Math.round(Number(styleValue.replace("px", "")) / 1.333) + "px"
+            }
+        }
+        return styleValue
     }
 
 
